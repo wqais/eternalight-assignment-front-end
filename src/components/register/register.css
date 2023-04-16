@@ -1,0 +1,21 @@
+.register{
+    margin-top: 5%;
+}
+
+.form-check-input{
+    margin-top:0.7rem;
+    margin-right: 0.5rem;
+}
+
+.error-container{
+    color: red;
+    font-weight: 700;
+}
+
+.btn-container{
+    width: 70%;
+}
+
+.reset-btn{
+    float: right;
+}

@@ -1,0 +1,26 @@
+.home-page{
+    margin-top: 10%;    
+}
+
+.action-btn:last-child{
+    margin-left: 2em;
+}
+
+.action-btn{
+    width: 8rem;
+}
+
+.footer-container{
+    margin-top: 10%;
+}
+
+.portfolio-link{
+    text-decoration: none;
+    transition: all 0.2s;
+}
+
+.portfolio-link:hover{
+    color: grey;
+    text-decoration: underline;
+}
+
